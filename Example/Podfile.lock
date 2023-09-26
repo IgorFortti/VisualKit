@@ -1,0 +1,18 @@
+PODS:
+  - VisualKit (0.1.0):
+    - VisualKit/Release (= 0.1.0)
+  - VisualKit/Release (0.1.0)
+
+DEPENDENCIES:
+  - VisualKit (from `../`)
+
+EXTERNAL SOURCES:
+  VisualKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VisualKit: 5cffd13f5ff111df7e06b2a08eea2b57e3dff6f1
+
+PODFILE CHECKSUM: f5cbf89765e41bfdcceb24728cf5821d808154d2
+
+COCOAPODS: 1.12.1
