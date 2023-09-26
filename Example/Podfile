@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'VisualKit_Example' do
+  pod 'VisualKit', :path => '../'
+
+  target 'VisualKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
